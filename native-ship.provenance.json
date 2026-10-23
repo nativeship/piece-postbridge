@@ -1,0 +1,6 @@
+{
+  "frameworkVersion": "0.40.0",
+  "generator": "native-ship/activepieces",
+  "packageName": "piece-postbridge",
+  "schemaVersion": 1
+}
