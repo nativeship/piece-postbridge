@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "nativeship",
+    "url": "https://github.com/nativeship"
+  },
+  "dependencies": {},
+  "description": "Social Media Scheduler",
+  "files": [
+    "src/index.js",
+    "README.md",
+    "logo.svg"
+  ],
+  "homepage": "https://github.com/nativeship/piece-postbridge",
+  "keywords": [
+    "activepieces",
+    "activepieces-piece"
+  ],
+  "license": "MIT",
+  "main": "./src/index.js",
+  "name": "piece-postbridge",
+  "nativeShip": {
+    "artifactSha256": "6302c75d3c072cf8f384c755f22a4253975bdf5ef7bbc11886536e8394d090df"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nativeship/piece-postbridge.git"
+  },
+  "version": "1.0.0"
+}
